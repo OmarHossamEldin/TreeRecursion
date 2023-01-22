@@ -1,4 +1,4 @@
-# Tree using regursion testing
+# Tree using recursion testing
 
 ```js
 
